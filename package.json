@@ -15,6 +15,7 @@
     "pug": "^2.0.3",
     "email-addresses": "^3.1.0",
 	"natural": "^2.1.5",
+	"sanitize-html": "^1.22.1",
     "serve-favicon": "~2.5.0"
   }
 }
